@@ -7,7 +7,7 @@ public class Fibonacci {
     }
     
 	public static void main (String[] args) {
-		int n = 49;
+		int n = 47;
 		for (int i = 1; i <= n; i++)
             System.out.println("Fibonacci para n " + i +":" + fibonacci(i));	
 	}

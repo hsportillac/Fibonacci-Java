@@ -6,7 +6,7 @@ public class fibonacci {
 		System.out.println(t1);
 		System.out.println(t2);
 		for (int i = 3; i <= n; i++){
-			tn = (byte) (t1 + t2) ;
+		tn = (byte) (t1 + t2) ;
 	        t1 = t2;
 	        t2 = tn;
                 System.out.println(tn);	}
@@ -18,7 +18,7 @@ public class fibonacci {
 		System.out.println(t1);
 		System.out.println(t2);
 		for (int i = 3; i <= n; i++){
-			tn = (short) (t1 + t2) ;
+		tn = (short) (t1 + t2) ;
 	        t1 = t2;
 	        t2 = tn;
                 System.out.println(tn);	}
@@ -30,7 +30,7 @@ public class fibonacci {
 		System.out.println(t1);
 		System.out.println(t2);
 		for (int i = 3; i <= n; i++){
-			tn = (int) (t1 + t2) ;
+		tn = (int) (t1 + t2) ;
 	        t1 = t2;
 	        t2 = tn;
                 System.out.println(tn);	}
@@ -42,7 +42,7 @@ public class fibonacci {
 		System.out.println(t1);
 		System.out.println(t2);
 		for (int i = 3; i <= n; i++){
-			tn = (long) (t1 + t2) ;
+		tn = (long) (t1 + t2) ;
 	        t1 = t2;
 	        t2 = tn;
                 System.out.println(tn);	}
